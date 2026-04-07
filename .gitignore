@@ -1,0 +1,26 @@
+# Sanal Ortam (Virtual Environment)
+.venv/
+venv/
+env/
+
+# Python Derlenmis Dosyalar
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE ve Sabit Dosyalar
+.vscode/
+.idea/
+.DS_Store
+
+# Loglar ve Yerel Veriler
+logs/
+*.csv
+*.log
+
+# Derin Ogrenme Modelleri (Otomatik inecektir v8n)
+*.pt
+yolov8n.pt
+runs/
+
+# (Not: dataset/ klasorunu ignore etmiyoruz ki repoyu indirenler soldiers.mp4 vs ile hemen test edebilsin)
