@@ -50,8 +50,8 @@ Başlattığınızda karşınıza konsol tabanlı **Görev Seçim Menüsü** gel
   [3] Canli Kamera (Webcam)
   [4] Ozel dosya yolu (Kendi klibini sec)
 ```
-Rakamı tuşlayın ve Enter'a basın! Model dosyanız (YOLO ağırlıkları) sistem ilk defa başlatıldığında **otomatik olarak** inecektir.
-
+Rakamı tuşlayın ve Enter'a basın. Model dosyanız (YOLO ağırlıkları) sistem ilk defa başlatıldığında **otomatik olarak** inecektir.
+Sistemden çıkmak istediğinizde Q tuşuna basın.
 ---
 
 ## 📁 Proje Klasör Yapısı
